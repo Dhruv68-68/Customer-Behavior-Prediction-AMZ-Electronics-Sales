@@ -45,7 +45,3 @@ Python-based machine learning project analyzing real-world electronics sales dat
 
 ## Contributors
 - Dhruv Narula
-- Sameer Kumar
-- Srishti Verma
-- Theo Okrah
-- Qingrui Lou
